@@ -1,0 +1,15 @@
+{
+  "name": "microservices-ui",
+  "version": "1.0.0",
+  "description": "Microservices Front End Static UI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Forrider",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "static-server": "^2.2.1"
+  }
+}
